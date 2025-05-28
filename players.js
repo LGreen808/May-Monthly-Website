@@ -94,7 +94,20 @@ const players = [
         age: 24,
         photo: 'https://picsum.photos/200/300'
     }
-
+     {
+        firstName:'Gabe',
+        lastName :'Perreault',
+        position: 'Right Wing',
+        age: 20,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Matt',
+        lastName :'Rempe',
+        position: 'Center',
+        age: 24,
+        photo: 'https://picsum.photos/200/300'
+    }
 
 
 
