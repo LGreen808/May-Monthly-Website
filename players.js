@@ -105,13 +105,56 @@ const players = [
         firstName:'Matt',
         lastName :'Rempe',
         position: 'Center',
-        age: 24,
+        age: 22,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Vincent',
+        lastName :'Trocheck',
+        position: 'Center',
+        age: 31,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Mika',
+        lastName :'Zibanejad',
+        position: 'Center',
+        age: 32,
         photo: 'https://picsum.photos/200/300'
     }
 
 
 
+     {
+        firstName:'Will',
+        lastName :'Borgen',
+        position: 'Defense',
+        age: 29,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Calvin',
+        lastName :'Haan',
+        position: 'Defense',
+        age: 34,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Adam',
+        lastName :'Fox',
+        position: 'Defense',
+        age: 27,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Zac',
+        lastName :'Jones',
+        position: 'Cer',
+        age: 24,
+        photo: 'https://picsum.photos/200/300'
+    }
 
+              
 
 
 
