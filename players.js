@@ -149,14 +149,50 @@ const players = [
      {
         firstName:'Zac',
         lastName :'Jones',
-        position: 'Cer',
+        position: 'Defense',
         age: 24,
         photo: 'https://picsum.photos/200/300'
     }
-
-              
-
-
-
-
+     {
+        firstName:'K`Andre',
+        lastName :'Miller',
+        position: 'Defense',
+        age: 25,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Braden',
+        lastName :'Schneider',
+        position: 'Defense',
+        age: 23,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Carson',
+        lastName :'Soucy',
+        position: 'Defense',
+        age: 30,
+        photo: 'https://picsum.photos/200/300'
+    }
+ {
+        firstName:'Urho',
+        lastName :'Vaakanainen',
+        position: 'Defense',
+        age: 26,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Jonathan',
+        lastName :'Quick',
+        position: 'Goalie',
+        age: 39,
+        photo: 'https://picsum.photos/200/300'
+    }
+     {
+        firstName:'Igor',
+        lastName :'Shesterkin',
+        position: 'Goalie',
+        age: 29,
+        photo: 'https://picsum.photos/200/300'
+    }   
 ]
