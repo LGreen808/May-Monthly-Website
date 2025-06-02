@@ -10,14 +10,15 @@ document.addEventListener('DOMContentLoaded', () => {
             
             col.innerHTML = `
                     
-            <div class="card h-100 shadow-sm">
+
+               <div class="card h-100 shadow-sm">
                     <img src="${p.photo}" alt="${p.firstName} ${p.lastName}" class="card-img-top">
                     <div class="card-body text-center">
             <h5 class="card-title mb-1">${p.firstName} ${p.lastName}</h5>
             <div class='badge badge-position badge-pos-${p.position}'>${p.position}</div>
             <p class="small text-muted mb-0">Age ${p.age}</p>
-                    </div>
-                </div>
+                    
+        
             <div>
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal${i}">
   More Information
@@ -40,6 +41,8 @@ document.addEventListener('DOMContentLoaded', () => {
       </div>
     </div>
   </div>
+</div>
+</div>
 </div>
 </div>`
    
