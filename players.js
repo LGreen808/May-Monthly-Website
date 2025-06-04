@@ -41,7 +41,7 @@ const players = [
         position: 'Left Wing',
         age: 23,
         photo: 'imgs/5th.png',
-        hiddenFact: ''
+        hiddenFact: 'He was drafted in 2020 by the New York Rangers in the 2nd round of the draft.'
     },
     {
         firstName:'Adam',
@@ -121,21 +121,23 @@ const players = [
         position: 'Center',
         age: 22,
         photo: 'imgs/15th.png',
-        hiddenFact: ''
+        hiddenFact: 'He was drafted by the New York Rangers in 2020 in the 6th round of the draft.'
     },
      {
         firstName:'Vincent',
         lastName :'Trocheck',
         position: 'Center',
         age: 31,
-        photo: 'imgs/16th.png'
+        photo: 'imgs/16th.png',
+        hiddenFact: 'Trocheck scored his 200th NHL goal as a New York Ranger against the New York Islanders at MSG on November 3rd 2024'
     },
      {
         firstName:'Mika',
         lastName :'Zibanejad',
         position: 'Center',
         age: 32,
-        photo: 'imgs/17th.png'
+        photo: 'imgs/17th.png',
+        hiddenFact: 'In 2012 Zibanejad played in the 2012 World Junior Championship for Sweden he scored in overtime and gave Sweden a 1-0 victory against Russia in the final. That championship in 2012 was Sweden first at the World Juniors in 31 years.'
     },
 
 
@@ -155,69 +157,79 @@ const players = [
         lastName :'Borgen',
         position: 'Defense',
         age: 28,
-        photo: 'imgs/18th.png'
+        photo: 'imgs/18th.png',
+        hiddenFact: 'Borgen graduated in 2015 from Moorhead High School in Minnesota, where he was a three-time letterwinner in hockey and soccer.'
     },
      {
         firstName:'Calvin',
         lastName :'Haan',
         position: 'Defense',
         age: 34,
-        photo: 'imgs/19th.png'
+        photo: 'imgs/19th.png',
+        hiddenFact: 'He made his NHL debut with the Islanders on December 15th 2011'
     },
      {
         firstName:'Adam',
         lastName :'Fox',
         position: 'Defense',
         age: 27,
-        photo: 'imgs/20th.png'
+        photo: 'imgs/20th.png',
+        hiddenFact: 'Grew up a Rangers fan in Jericho, New York'
     },
      {
         firstName:'Zac',
         lastName :'Jones',
         position: 'Defense',
         age: 24,
-        photo: 'imgs/21st.png'
+        photo: 'imgs/21st.png',
+        hiddenFact: 'He played for the USHL Second All-Star Team in (2019), the Hockey East All-Rookie Team in (2020), and the NCAA (East) Second All-American Team in (2021)'
     },
      {
         firstName:'K`Andre',
         lastName :'Miller',
         position: 'Defense',
         age: 25,
-        photo: 'imgs/22nd.png'
+        photo: 'imgs/22nd.png',
+        hiddenFact: 'Scored his first goal in a 3-2 loss to the Buffalo Sabres on January 26th'
     },
      {
         firstName:'Braden',
         lastName :'Schneider',
         position: 'Defense',
         age: 23,
-        photo: 'imgs/23rd.png'
+        photo: 'imgs/23rd.png',
+        hiddenFact: 'Schneider has represented Canada at the 2018 Hlinka Gretzky Cup (gold medal) and the 2021 IIHF World Junior Championship (silver). '
     },
      {
         firstName:'Carson',
         lastName :'Soucy',
         position: 'Defense',
         age: 30,
-        photo: 'imgs/24th.png'
+        photo: 'imgs/24th.png',
+        hiddenFact: 'Soucy made the Wild in 2019-20 and scored his first NHL goal against the Carolina Hurricanes on Nov. 16, 2019.'
     },
  {
         firstName:'Urho',
         lastName :'Vaakanainen',
         position: 'Defense',
         age: 26,
-        photo: 'imgs/25th.png'
+        photo: 'imgs/25th.png',
+        hiddenFact: 'He was born in Joensuu Finland'
     },
      {
         firstName:'Jonathan',
         lastName :'Quick',
         position: 'Goalie',
         age: 39,
-        photo: 'imgs/26th.png'
+        photo: 'imgs/26th.png',
+        hiddenFact: 'He helped Los Angeles win the Stanley Cup twice.'
     },
      {
         firstName:'Igor',
         lastName :'Shesterkin',
         position: 'Goalie',
         age: 29,
-        photo: 'imgs/27th.png'
+        photo: 'imgs/27th.png',
+        hiddenFact: 'He won his NHL debut the next night by making 29 saves in a 5-3 victory against the Colorado Avalanche.'
     }   
 ]

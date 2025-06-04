@@ -33,11 +33,11 @@ document.addEventListener('DOMContentLoaded', () => {
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-      <h3>This person plays on the New York Rangers!</h3>
+      <h3>${p.hiddenFact}</h3>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-success" data-bs-dismiss="modal">Intresting</button>
-        <button type="button" class="btn btn-danger">Close</button>
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>

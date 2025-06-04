@@ -18,6 +18,10 @@ h3 {
     background-color: lightgray;
 }
 
+.info {
+    background-color: blue;
+}
+
 .Home {
      background: url(imgs/IndexBackground.jpg);
      overflow: hidden;
