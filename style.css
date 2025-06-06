@@ -12,9 +12,15 @@ h3 {
 
 .logo {
     z-index: 0;
+    margin: auto;
+    
 }
 
 .information {
+    background-color: lightgray;
+}
+
+.card2 {
     background-color: lightgray;
 }
 
