@@ -28,6 +28,11 @@ h3 {
     background-color: blue;
 }
 
+.logo3 {
+    height: 500px;
+    width: 600px;
+}
+
 .Home {
      background: url(imgs/IndexBackground.jpg);
      overflow: hidden;
