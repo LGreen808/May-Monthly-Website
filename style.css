@@ -8,6 +8,8 @@ h3 {
 
 
 /*CSS for my Landing Page*/
+
+
 .card1 {
     background-color: lightgray;
     border-color: lightgray;
@@ -20,10 +22,7 @@ h3 {
     
 }
 
-.logo3 {
-    height: 500px;
-    width: 600px;
-}
+
 
 .nav1 {
     background-color: blue;
@@ -46,10 +45,11 @@ display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    object-fit: cover;
 }
 
 .info {
-    background-color: whitesmoke;
+    background-color: darkblue;
 }
 
 .information {
@@ -58,6 +58,11 @@ display: block;
 
 .card2 {
     background-color: lightgray;
+}
+
+.logo3 {
+    width: 400px;
+    height: 500px;
 }
 
 
