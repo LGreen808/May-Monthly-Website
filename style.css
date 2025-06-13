@@ -6,14 +6,50 @@ h3 {
     text-align: center;
 }
 
-.background {
-    z-index: -1;
+
+/*CSS for my Landing Page*/
+.card1 {
+    background-color: lightgray;
+    border-color: lightgray;
 }
+
 
 .logo {
     z-index: 0;
     margin: auto;
     
+}
+
+.logo3 {
+    height: 500px;
+    width: 600px;
+}
+
+.nav1 {
+    background-color: blue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*CSS for my Information Page*/
+.nav2 {
+    background-color: blue;
+}
+
+.img3 {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.info {
+    background-color: whitesmoke;
 }
 
 .information {
@@ -24,24 +60,21 @@ h3 {
     background-color: lightgray;
 }
 
-.info {
+
+
+
+/*CSS for my Team Roster Page*/ 
+
+.nav3 {
     background-color: blue;
 }
 
-.logo3 {
-    height: 500px;
-    width: 600px;
+.teamCard {
+    background-color: lightgray;
 }
 
-.Home {
-     background: url(imgs/IndexBackground.jpg);
-     overflow: hidden;
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    background-repeat:no-repeat;
-    background-size: cover;
+
+.body3 {
+    background-color: lightcoral;
+/*Red was too strong so I switched it to a lighter color*/
 }
