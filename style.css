@@ -22,6 +22,13 @@ h3 {
     
 }
 
+.Home {
+    background-color: lightgray;
+    background-image: url(Back.webp);
+    background-repeat:no-repeat;
+      background-size: cover;
+}
+
 
 
 .nav1 {

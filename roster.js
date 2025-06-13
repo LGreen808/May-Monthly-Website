@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     
         
             <div>
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal${i}">
+            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal${i}">
   More Information
 </button>
 
