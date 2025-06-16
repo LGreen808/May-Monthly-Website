@@ -230,6 +230,6 @@ const players = [
         position: 'Goalie',
         age: 29,
         photo: 'imgs/27th.png',
-        hiddenFact: 'He won his NHL debut the next night by making 29 saves in a 5-3 victory against the Colorado Avalanche.'
+        hiddenFact: 'He won his NHL debut by making 29 saves in a 5-3 victory against the Colorado Avalanche.'
     }   
 ]
